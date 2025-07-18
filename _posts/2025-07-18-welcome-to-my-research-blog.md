@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to My Research Blog"
-date: 2025-01-18
+date: 2025-07-18
 categories: [general]
 tags: [introduction, research, AI, healthcare]
 ---
