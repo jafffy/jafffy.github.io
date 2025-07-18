@@ -1,0 +1,59 @@
+# Site settings
+title: Jaewon Choi
+email: jaewon.james.choi@gmail.com
+description: >-
+  Research blog on Agentic AI for Healthcare, Mobile Systems, and Computer Graphics
+baseurl: ""
+url: "https://jafffy.github.io"
+github_username: jafffy
+linkedin_username: jafffy
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  publications:
+    output: true
+    permalink: /publications/:name/
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Jaewon Choi"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
