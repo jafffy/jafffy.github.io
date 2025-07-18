@@ -7,11 +7,16 @@ permalink: /publications/
 ## Journal Publications
 
 ### 2022
-- **"Emulating Your eXtended World"**  
-  *IEEE MASS 2022*
+- **"Emulating Your eXtended World: An Emulation Environment for XR App Development"**  
+  Jaewon Choi, Seungchan Jeong, JeongGil Ko  
+  *IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS)* - Invited Paper  
+  NRF-listed Top CS Conference
 
-- **"Low Quality for High Quality"**  
-  *IEEE Pervasive Computing*
+### 2021
+- **"Low Quality for High Quality: Exploiting 2K Frames for Supporting Efficient 4K-Quality Pervasive Video Streaming Applications"**  
+  Jaewon Choi, JeongGil Ko  
+  *IEEE Pervasive Computing* - Special Issue on Pervasive Video and Audio  
+  JCR IF Top 25%
 
 ### 2021
 - **"Combining hepatic surface nodularity and serum tests better predicts hepatic fibrosis stages in chronic liver disease"**  
@@ -27,8 +32,17 @@ permalink: /publications/
 
 ### 2019
 - **"LpGL: Low-power Graphics Library for Mobile AR Headsets"**  
+  Jaewon Choi, HyeonJung Park, Jeongyeup Paek, Rajesh Krishna Balan, JeongGil Ko  
   *ACM MobiSys 2019* - Main conference paper (22% acceptance rate)  
   🏆 **Best Demo Award** at ACM HotMobile 2019
+
+- **"Demo: RemoteGL - Towards Low-latency Interactive Cloud Graphics Experience for Mobile Devices"**  
+  Jaewon Choi, JeongGil Ko  
+  *ACM MobiSys 2019* - Poster/Demo Abstract
+
+- **"Demo: XREmul- An Emulation Environment for XR Application Development"**  
+  Jaewon Choi, Seungchan Jeong, JeongGil Ko  
+  *ACM HotMobile 2019* - Poster/Demo Abstract
 
 ### 2017
 - **"Glasses For the Third Eye: Improving Clinical Data Analysis with Motion Sensor-based Filtering"**  
