@@ -264,6 +264,167 @@ a:hover {
   font-size: 0.875rem;
 }
 
+/* Markdown Content Styling */
+.main-content {
+  line-height: 1.8;
+}
+
+/* Code blocks */
+pre {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  overflow-x: auto;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 1.5rem 0;
+}
+
+code {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.9em;
+  background: #f1f5f9;
+  color: #e11d48;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  border: 1px solid #e2e8f0;
+}
+
+pre code {
+  background: none;
+  color: #374151;
+  padding: 0;
+  border: none;
+  font-size: 0.9rem;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #3b82f6;
+  background: #f8fafc;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 0.5rem 0.5rem 0;
+  font-style: italic;
+  color: #475569;
+}
+
+blockquote p {
+  margin-bottom: 0.5rem;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  background: #ffffff;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+  background: #f8fafc;
+}
+
+th, td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+th {
+  font-weight: 600;
+  color: #374151;
+}
+
+tr:hover {
+  background: #f8fafc;
+}
+
+/* Lists */
+ul, ol {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+li > ul, li > ol {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+/* Task lists */
+.task-list-item {
+  list-style: none;
+  margin-left: -1.5rem;
+}
+
+.task-list-item-checkbox {
+  margin-right: 0.5rem;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #e2e8f0, transparent);
+  margin: 2rem 0;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  margin: 1rem 0;
+}
+
+/* Definition lists */
+dl {
+  margin: 1rem 0;
+}
+
+dt {
+  font-weight: 600;
+  color: #374151;
+  margin-top: 1rem;
+}
+
+dd {
+  margin-left: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #6b7280;
+}
+
+/* Footnotes */
+.footnotes {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e2e8f0;
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+/* Highlight/Mark */
+mark {
+  background: #fef3c7;
+  color: #92400e;
+  padding: 0.1rem 0.2rem;
+  border-radius: 0.25rem;
+}
+
 /* Utilities */
 .text-center { text-align: center; }
 .text-light { color: #6b7280; }
