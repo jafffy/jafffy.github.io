@@ -348,8 +348,8 @@ a {
 }
 
 // Import additional styles
-@import "post";
-@import "project";
+@use "post";
+@use "project";
 
 // Utilities
 .text-center { text-align: center; }
