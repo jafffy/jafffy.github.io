@@ -45,6 +45,9 @@ layout: default
       <p>Attended SCCM Datathon at the Society of Critical Care Medicine HQ, providing K-MIMIC dataset access and mentoring teams on critical care data analytics.</p>
     </div>
   </div>
+  <div class="text-center mt-3">
+    <a href="{{ '/highlights/' | relative_url }}" class="btn btn-secondary">View All Highlights</a>
+  </div>
 </section>
 
 <section>
