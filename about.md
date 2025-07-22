@@ -36,10 +36,9 @@ Working on Agentic AI for Medical Applications under Prof. Young-Gon Kim, focusi
 
 My work spans four interconnected areas:
 
-1. **Mobile VR/AR Systems** - Low-power graphics and perceptual computing for mobile devices
-2. **Neural Video Streaming** - Advanced video compression for real-time applications
-3. **Edge Computing** - ML inference optimization for resource-constrained environments
-4. **Agentic AI for Medical Systems** - Autonomous AI agents for clinical decision support
+1. **Agentic AI for Medical Systems** - Autonomous AI agents for clinical decision support
+2. **Mobile VR/AR Systems** - Low-power graphics and perceptual computing for mobile devices
+3. **Systems for Visual Computing** - Video analytics ML inference optimization for resource-constrained environments in Edge Computing environments
 
 ## Contact
 
