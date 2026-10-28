@@ -14,6 +14,21 @@ layout: default
 </section>
 
 <section class="mb-4">
+  <h2 class="text-center mb-3">News</h2>
+  <div class="card">
+    <ul>
+      <li><strong>Nov 2026 (upcoming)</strong> — Invited talk "Agentic AI와 함께 연구하기" at the Inha University AI Convergence Seminar (Nov 3, online).</li>
+      <li><strong>Oct 2026</strong> — Our paper on conditional resistance in synthetic microbiology profiles was accepted to the <a href="https://openreview.net/forum?id=HYtTXJuihA">NeurIPS 2026 GenAI4Health workshop</a> (co-first author).</li>
+      <li><strong>Aug 2026</strong> — Our paper on predicting hemorrhage after brain biopsy was accepted to <em>Scientific Reports</em> (co-first author).</li>
+      <li><strong>Aug 2026</strong> — PSCT-Net, on pediatric skull CT reconstruction, was accepted to the <a href="https://openreview.net/forum?id=31fG44sdm6">MICCAI 2026 PedAItrics workshop</a>.</li>
+      <li><strong>Jun 2026</strong> — Our paper on transrectal ultrasound prostate video segmentation was accepted to MICCAI 2026.</li>
+      <li><strong>Mar 2026</strong> — Presented HoloQRam at IEEE PerCom 2026 in Pisa (Best Paper Candidate).</li>
+    </ul>
+    <p class="text-center"><a href="{{ '/publications/' | relative_url }}">All publications →</a></p>
+  </div>
+</section>
+
+<section class="mb-4">
   <h2 class="text-center mb-3">Research Areas</h2>
   <div class="grid grid-3">
     <div class="card">
